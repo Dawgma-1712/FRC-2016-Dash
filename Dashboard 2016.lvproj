@@ -21,6 +21,8 @@
 			<Item Name="Adjust Dashboard Window.vi" Type="VI" URL="../Adjust Dashboard Window.vi"/>
 		</Item>
 		<Item Name="Dashboard Main.vi" Type="VI" URL="../Dashboard Main.vi"/>
+		<Item Name="Analyze Blobs.vi" Type="VI" URL="../../Dashboards/7_6_16 Vision Dashboard/Analyze Blobs.vi"/>
+		<Item Name="Find Blobs.vi" Type="VI" URL="../../Dashboards/7_6_16 Vision Dashboard/Find Blobs.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="IMAQ Create" Type="VI" URL="/&lt;vilib&gt;/vision/Basics.llb/IMAQ Create"/>
@@ -261,8 +263,6 @@
 			<Item Name="Moment Score.vi" Type="VI" URL="../../Dashboards/7_6_16 Vision Dashboard/Vision Support Code/Moment Score.vi"/>
 			<Item Name="Calculate Particle Scores.vi" Type="VI" URL="../../Dashboards/7_6_16 Vision Dashboard/Vision Support Code/Calculate Particle Scores.vi"/>
 			<Item Name="Sorted Particle Report 2016.vi" Type="VI" URL="../../Dashboards/7_6_16 Vision Dashboard/Vision Support Code/Sorted Particle Report 2016.vi"/>
-			<Item Name="Find Blobs.vi" Type="VI" URL="../../Dashboards/7_6_16 Vision Dashboard/Find Blobs.vi"/>
-			<Item Name="Analyze Blobs.vi" Type="VI" URL="../../Dashboards/7_6_16 Vision Dashboard/Analyze Blobs.vi"/>
 			<Item Name="lvanlys.dll" Type="Document" URL="/&lt;resource&gt;/lvanlys.dll"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
